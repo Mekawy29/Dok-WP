@@ -3,6 +3,7 @@
 #
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
+#vff
 
 FROM php:8.2-apache
 
